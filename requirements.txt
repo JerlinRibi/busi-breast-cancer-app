@@ -1,8 +1,9 @@
 streamlit
 numpy
-opencv-python
+opencv-python-headless
 scikit-learn
 xgboost
 joblib
 pandas
+
 altair
