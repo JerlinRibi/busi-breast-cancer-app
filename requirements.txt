@@ -9,4 +9,5 @@ scikit-learn==1.8.0
 xgboost
 scikit-learn
 matplotlib
+shap
 python-dotenv
