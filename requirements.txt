@@ -1,0 +1,12 @@
+streamlit
+numpy
+opencv-python-headless
+joblib
+pandas
+altair
+reportlab
+scikit-learn==1.8.0
+xgboost
+scikit-learn
+matplotlib
+python-dotenv
